@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre mim:
 Atualmente estou iniciando meus estudos na área de programação na  Digital Innovation One.<br><br>Curto ambientes relaxantes, música eletrônica e gosto de exercitar meu corpo.
 
 
